@@ -1,4 +1,4 @@
-# Stacked Difference-in-Differences (DiD)
+# Staggered Difference-in-Differences (DiD)
 
 ## Project Overview
 
