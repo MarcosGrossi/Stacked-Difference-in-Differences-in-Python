@@ -10,7 +10,7 @@ While this replication closely follows the paper’s methodology, **some results
 
 ## Dataset
 
-The dataset used is `PS2 data.csv` located in the data folder, which contains:
+The dataset used in this project is stored in a private repository due to size. The dataset is called `PS2 data.csv`, which contains:
 
 - `district_code`: District identifier
 - `grade`: Grade level (K–3)
